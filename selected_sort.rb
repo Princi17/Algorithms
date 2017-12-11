@@ -14,3 +14,5 @@ def selected_sort(a)
 end
 
 a = [3,6,2,8,1,5]
+
+p selected_sort(a)
